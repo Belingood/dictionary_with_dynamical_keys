@@ -1,4 +1,4 @@
-# Dictionary with dynamical keys
+# Dictionary with dynamic keys
 
 This is the way of classifying data (mostly suitable for digital intervals)
 as an alternative to cascade of if's expressions.
